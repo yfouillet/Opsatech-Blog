@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opsatech Blog</title>
+    <link>https://blog.opsatech.com/</link>
+    <description>Recent content on Opsatech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Licence Creative Commons&#34; style=&#34;border-width:0&#34; src=&#34;https://blog.opsatech.com/img/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Ce(tte) œuvre est mise à disposition selon les termes de la &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 23 Jan 2021 16:00:30 +0100</lastBuildDate><atom:link href="https://blog.opsatech.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AzureDevOps Utiliser des Services Connections non natifs</title>
+      <link>https://blog.opsatech.com/posts/azuredevops-generic-sc/</link>
+      <pubDate>Sat, 23 Jan 2021 16:00:30 +0100</pubDate>
+      
+      <guid>https://blog.opsatech.com/posts/azuredevops-generic-sc/</guid>
+      <description>&lt;p&gt;Hello, je travaille actuellement sur l&amp;rsquo;intégration d&amp;rsquo;un cloud provider non nativement compatible avec Azure DevOps pour utiliser Terraform/Ansible.
+Dans ce cadre, je vais vous présenter une des solutions que j&amp;rsquo;ai utilisée pour sécuriser les credentials d&amp;rsquo;accès.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>La création du blog</title>
+      <link>https://blog.opsatech.com/posts/la-creation-du-blog/</link>
+      <pubDate>Tue, 24 Nov 2020 14:06:30 +0100</pubDate>
+      
+      <guid>https://blog.opsatech.com/posts/la-creation-du-blog/</guid>
+      <description>&lt;p&gt;Création du Blog technique Opsatech&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

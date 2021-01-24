@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.opsatech.com/posts/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/tags/azuredevops/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/posts/azuredevops-generic-sc/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/categories/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/tags/cloud/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/categories/devops/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/tags/</loc>
+    <lastmod>2021-01-23T16:00:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/categories/general/</loc>
+    <lastmod>2020-11-24T14:06:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/posts/la-creation-du-blog/</loc>
+    <lastmod>2020-11-24T14:06:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.opsatech.com/tags/news/</loc>
+    <lastmod>2020-11-24T14:06:30+01:00</lastmod>
+  </url>
+  
+</urlset>

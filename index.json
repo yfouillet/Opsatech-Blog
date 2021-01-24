@@ -1,0 +1,8 @@
+
+
+
+    
+
+    
+
+[{"categories":["DevOps"],"description":"\u003cp\u003eHello, je travaille actuellement sur l\u0026rsquo;intégration d\u0026rsquo;un cloud provider non nativement compatible avec Azure DevOps pour utiliser Terraform/Ansible.\nDans ce cadre, je vais vous présenter une des solutions que j\u0026rsquo;ai utilisée pour sécuriser les credentials d\u0026rsquo;accès.\u003c/p\u003e","tags":["azuredevops","cloud"],"title":"AzureDevOps Utiliser des Services Connections non natifs","url":"https://blog.opsatech.com/posts/azuredevops-generic-sc/"},{"categories":["General"],"description":"\u003cp\u003eCréation du Blog technique Opsatech\u003c/p\u003e","tags":["News"],"title":"La création du blog","url":"https://blog.opsatech.com/posts/la-creation-du-blog/"}]
